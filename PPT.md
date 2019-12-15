@@ -26,3 +26,5 @@
 ![float-example-3](./assets/float-example-3.jpg)
 ![float-example-4](./assets/float-example-4.jpg)
 ![float-example-5](./assets/float-example-5.jpg)
+
+[](https://pt.coursera.org/lecture/jisuanji-xitong/w4-3-3-fu-dian-yun-suan-jing-du-ju-li-x37g4)
