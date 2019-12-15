@@ -53,5 +53,9 @@ PS: If you want to get rid of `XXX is beyond boundary when transfer to integer, 
 NP.enableBoundaryChecking(false); // default param is true
 ```
 
+### Analysis
+
+[PPT Analysis](./PPT.md)
+
 ### License
 MIT
